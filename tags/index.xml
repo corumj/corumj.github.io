@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Peripatetic.me</title>
+		<link>http://corumj.github.io/tags/</link>
+		<description>Recent content in Tags on Peripatetic.me</description>
+		<generator>Hugo 0.76.5 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>corum@example.org (Jerry Corum)</managingEditor>
+		<webMaster>corum@example.org (Jerry Corum)</webMaster>
+		<copyright>Jerry Corum — All rights reserved.</copyright>
+		<lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://corumj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

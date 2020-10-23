@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>hugo on Peripatetic.me</title>
+		<link>http://corumj.github.io/tags/hugo/</link>
+		<description>Recent content in hugo on Peripatetic.me</description>
+		<generator>Hugo 0.76.5 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>corum@example.org (Jerry Corum)</managingEditor>
+		<webMaster>corum@example.org (Jerry Corum)</webMaster>
+		<copyright>Jerry Corum — All rights reserved.</copyright>
+		<lastBuildDate>Thu, 23 Nov 2017 23:42:05 +0100</lastBuildDate>
+		<atom:link href="http://corumj.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>About Me</title>
+			<link>http://corumj.github.io/about/</link>
+			<pubDate>Thu, 23 Nov 2017 23:42:05 +0100</pubDate>
+			<author>corum@example.org (Jerry Corum)</author>
+			<guid isPermaLink="true">http://corumj.github.io/about/</guid>
+			<description>&lt;p&gt;Jerry Corum is a Specialist Solutions Architect for Red Hat, Inc. and is also a raging nerd.  Jerry has worked in IT (or IT adjacent) since 1999, primarily within Windows Server environments, though has also branched out working with GIS technologies as well and even acted as a GIS data manager aboard an Arctic research vessel, the R/V Westward Wind.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>

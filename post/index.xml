@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Peripatetic.me</title>
+		<link>http://corumj.github.io/post/</link>
+		<description>Recent content in Posts on Peripatetic.me</description>
+		<generator>Hugo 0.76.5 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>corum@example.org (Jerry Corum)</managingEditor>
+		<webMaster>corum@example.org (Jerry Corum)</webMaster>
+		<copyright>Jerry Corum — All rights reserved.</copyright>
+		<lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://corumj.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Welcome to Peripatetic.me</title>
+			<link>http://corumj.github.io/post/welcome/</link>
+			<pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+			<author>corum@example.org (Jerry Corum)</author>
+			<guid isPermaLink="true">http://corumj.github.io/post/welcome/</guid>
+			<description>&lt;p&gt;So I decided to actually use this domain I&amp;rsquo;ve had for years for a website.  My friend &lt;a href=&#34;https://damien.live&#34;&gt;Damien&lt;/a&gt; told me about keeping a &amp;ldquo;TIL&amp;rdquo; journal, basically a searchable list of snippets of things I have learned that I think are interesting or might be useful in the future.  So this is mostly for me, but if someone else can get some benefit from these random bits of knowledge that&amp;rsquo;s a bonus!&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>
